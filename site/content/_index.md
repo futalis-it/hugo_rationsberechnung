@@ -1,20 +1,68 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Futalis
+subtitle: Die futalis-Rationsberechnung  exklusiv nur für Tierärzte
+image: img/shutterstock_115925884.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Warum futalis?
+  text: >
+    * ermöglicht Ihnen eine GOT abrechenbare Ernährungsberatung Ihrer Patienten
+
+    * detaillierte Anamnese aller ernährungsrelevanten Kriterien
+
+    * automatische Berechnung aller Bedarfswerte
+
+    * detaillierte Auswertung zur optimalen Zusammensetzung des benötigten
+    Futters
+
+    * mit diätetischen Hinweisen, Wachstums- und Diätkurven
+
+    * Unterlagen zum Ausdrucken für Ihre Patientenbesitzer
+
+    * 30-Tage kostenlos testen
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Ihre Vorteile
+  text: dfsddg
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/Icon-Untersuchung-150x150.jpg
+    text: >-
+      Ernährungsberatung
+
+      Die direkte Berechnung und Auswertung aller Bedarfswerte sowie der Zugang
+      zu Wachstums- und Diätkurven ermöglichen Ihnen eine einfache, abrechenbare
+      Ernährungsberatung.
+  - image: img/Eskulapstab_dunkelgrau_Nachbau-150x150.jpg
+    text: >-
+      Kompetenz
+
+      Durch unsere enge Zusammenarbeit mit dem Institut für Tierernährung der
+      Universität Leipzig haben Sie direkten Zugang zu neuesten,
+      wissenschaftlichen Erkenntnissen der Tierernährung.
+  - image: img/Icon-Kooperation-150x150.jpg
+    text: >-
+      Provision
+
+      Sie erhalten eine attraktive Erst- und eine feste Dauerprovision für jeden
+      Einkauf, den Ihr Kunde in Ihrer Praxis oder direkt bei futalis durchführt.
+  - image: img/Icon-Customize-150x150.jpg
+    text: >-
+      Bedarfsanpassung
+
+      Auf Basis der Rationsberechnung bieten wir Ihnen ein individuell
+      hergestelltes Futter, das eigens für den spezifischen Nährstoffbedarf
+      Ihres Patienten hergestellt wird.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Forschungsteam von futalis
+  text: >-
+
+    futalis ist eine universitäre Ausgründung des Instituts für Tierernährung,
+    Ernährungsschäden und Diätetik der Universität Leipzig. Seit Anfang 2011 hat
+    das Team aus Tierärzten an der Universität Leipzig an einem Beratungs- und
+    Ernährungskonzept für Haustiere gearbeitet. Basierend auf jahrzehntelanger
+    Erfahrung in der Ernährungsberatung von niedergelassenen Tierärzten,
+    Tierkliniken und Tierhaltern wurde die futalis Rationsberechnung entwickelt.
+    Bisher wurde diese Rationsberechnung ausschließlich für die Berechnung und
+    Herstellung bedarfsangepasster Nahrung für Kleintiere durch futalis
+    eingesetzt. Erstmalig bietet futalis diese Berechnung nun auch exklusiv für
+    Tierärzte an.
 ---
 
