@@ -21,11 +21,12 @@ blurb:
     * 30-Tage kostenlos testen
 intro:
   heading: Ihre Vorteile
-  text: dfsddg
+  text: ' '
 products:
   - image: img/Icon-Untersuchung-150x150.jpg
     text: >-
       Ernährungsberatung
+
 
       Die direkte Berechnung und Auswertung aller Bedarfswerte sowie der Zugang
       zu Wachstums- und Diätkurven ermöglichen Ihnen eine einfache, abrechenbare
@@ -51,18 +52,15 @@ products:
       hergestelltes Futter, das eigens für den spezifischen Nährstoffbedarf
       Ihres Patienten hergestellt wird.
 values:
-  heading: Forschungsteam von futalis
+  heading: Vorgehensweise
   text: >-
 
-    futalis ist eine universitäre Ausgründung des Instituts für Tierernährung,
-    Ernährungsschäden und Diätetik der Universität Leipzig. Seit Anfang 2011 hat
-    das Team aus Tierärzten an der Universität Leipzig an einem Beratungs- und
-    Ernährungskonzept für Haustiere gearbeitet. Basierend auf jahrzehntelanger
-    Erfahrung in der Ernährungsberatung von niedergelassenen Tierärzten,
-    Tierkliniken und Tierhaltern wurde die futalis Rationsberechnung entwickelt.
-    Bisher wurde diese Rationsberechnung ausschließlich für die Berechnung und
-    Herstellung bedarfsangepasster Nahrung für Kleintiere durch futalis
-    eingesetzt. Erstmalig bietet futalis diese Berechnung nun auch exklusiv für
-    Tierärzte an.
+    Die Seite rationsberechnung.de ist ein Service von futalis, der sich
+    exklusiv an Tierärzte richtet. Sie bietet Tierärzten die Möglichkeit, eine
+    wissenschaftlich fundierte Ernährungsberatung für Hunde anzubieten. Auf
+    Grundlage der Rationsberechnung, welche die unterschiedlichen Bedürfnisse
+    und Eigenschaften jedes einzelnen Hundes berücksichtigt, können Tierärzte
+    den individuellen Nährstoffbedarf für Hunde ermitteln und den Hundehaltern
+    Empfehlungen für eine maßgeschneiderte Ernährung geben.
 ---
 
