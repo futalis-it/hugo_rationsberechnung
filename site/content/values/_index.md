@@ -1,6 +1,6 @@
 ---
 title: Vorgehensweise
-image: img/Eskulapstab_dunkelgrau_Nachbau-150x150.jpg
+image: img/white.png
 values:
   - heading: Anamnese
     imageUrl: img/1.-Screen_Mäxchen-768x455.jpg
