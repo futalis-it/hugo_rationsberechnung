@@ -4,21 +4,7 @@ subtitle: Die futalis-Rationsberechnung  exklusiv nur für Tierärzte
 image: img/shutterstock_115925884.jpg
 blurb:
   heading: Warum futalis?
-  text: >
-    * ermöglicht Ihnen eine GOT abrechenbare Ernährungsberatung Ihrer Patienten
-
-    * detaillierte Anamnese aller ernährungsrelevanten Kriterien
-
-    * automatische Berechnung aller Bedarfswerte
-
-    * detaillierte Auswertung zur optimalen Zusammensetzung des benötigten
-    Futters
-
-    * mit diätetischen Hinweisen, Wachstums- und Diätkurven
-
-    * Unterlagen zum Ausdrucken für Ihre Patientenbesitzer
-
-    * 30-Tage kostenlos testen
+  text: 
 intro:
   heading: Ihre Vorteile
   text: ' '
