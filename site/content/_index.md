@@ -23,7 +23,7 @@ blurb:
     * 30-Tage kostenlos testen
 intro:
   heading: Ihre Vorteile
-  text: ' '
+  text: ' Hier können Sie mehr über Ihre Vorteile erfahren:'
 products:
   - image: img/Icon-Untersuchung-150x150.jpg
     text: >-
